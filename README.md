@@ -17,7 +17,7 @@ Trò chơi Tháp Hà Nội (Hanoi Tower) sử dụng cử chỉ tay để điề
 
 3. Chạy chương trình:
    ```bash
-   python HandGestureHanoi.pypy
+   python HandGestureHanoi.py
 
 
 ### Lưu ý
