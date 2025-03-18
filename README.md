@@ -1,6 +1,6 @@
 # Hand_Gesture_Hanoi_Tower_Game
 
-[![Tháp Hà Nội](https://img.youtube.com/vi/9dHziy7eg/0.jpg)](https://www.youtube.com/watch?v=9dHziy7eg)
+[![Tháp Hà Nội](https://img.youtube.com/vi/--9dHziy7eg/0.jpg)](https://www.youtube.com/watch?v=--9dHziy7eg)
 
 ## Giới thiệu
 Trò chơi Tháp Hà Nội (Hanoi Tower) sử dụng cử chỉ tay để điều khiển thay vì bàn phím. Trò chơi được phát triển bằng Python với thư viện OpenCV và Mediapipe để nhận diện cử chỉ tay. Người chơi có thể di chuyển các đĩa trên ba cột theo quy tắc của trò chơi Tháp Hà Nội bằng cách sử dụng hai ngón trỏ và cái.
