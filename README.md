@@ -1,6 +1,6 @@
 # Hand_Gesture_Hanoi_Tower_Game
 
-![Tháp Hà Nội](assets/Simulation.mp4)
+[![Tháp Hà Nội](https://img.youtube.com/vi/{--9dHziy7eg}/0.jpg)](https://www.youtube.com/watch?v={--9dHziy7eg})
 
 
 ## Giới thiệu
